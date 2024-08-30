@@ -7,7 +7,7 @@
 </h3>
 
 - 🌱 I’m currently learning **backend development**.
-- 📫 How to reach me: [Email](prakrititz.borah@iiitb.ac.in).
+- 📫 How to reach me: [Email]**prakrititz.borah@iiitb.ac.in**.
 <h3 align="left">My Experiences:</h3>
 <p align="left">
   <strong>LangChain</strong>: Experienced in using LangChain for advanced language model applications and data processing.<br><br>
