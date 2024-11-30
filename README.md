@@ -1,4 +1,4 @@
-# 👨‍💻 Prakrititz Borah
+# 👨‍💻 Hi I AM
 
 ![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Prakrititz%20Borah&fontSize=90&animation=fadeIn)
 
