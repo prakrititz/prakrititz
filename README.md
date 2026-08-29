@@ -1,7 +1,5 @@
 # Prakrititz Borah
 
-Integrated M.Tech (B.Tech + M.Tech) in Computer Science and Engineering, with a Minor in Artificial Intelligence and Machine Learning, at the International Institute of Information Technology Bangalore.
-
 I build software across the stack — from Android applications and self-hosted deployment platforms to research-grade machine learning pipelines. My current focus is on deepening my understanding of machine learning: representation learning, multi-objective optimisation, and applied NLP with deep learning. I am actively looking to learn more in this space through research, coursework, and open-source work.
 
 ---
@@ -17,9 +15,9 @@ I build software across the stack — from Android applications and self-hosted 
 
 ## Goal Guard
 
-**Goal Guard** is a productivity and focus application I built for Android and iOS. It blocks distracting applications and websites through Android system APIs with lifecycle-aware services, persists blocking state across OS restarts, and keeps the blocking engine and the user interface in real-time sync. Google Play Billing handles subscription validation and feature gating.
+A productivity and focus application for Android and iOS.
 
-The application has grown to **20,000+ downloads across 25+ countries** with **1,500+ daily active users**.
+**20,000+ downloads** across **25+ countries** · **1,500+ daily active users**
 
 [**View Goal Guard on Google Play**](https://play.google.com/store/apps/details?id=com.goalguard.app)
 
@@ -27,13 +25,7 @@ The application has grown to **20,000+ downloads across 25+ countries** with **1
 
 ## RelayBrain
 
-The project I am most proud of. **RelayBrain** is an open-source coordination and context layer for AI coding agents — a shared, versioned memory that follows you across Claude Code, Cursor, Copilot, Codex, and Antigravity, so switching tools no longer means losing the plot.
-
-- **Cross-agent memory architecture.** An npm package with a dedicated CLI that unifies shared context across five heterogeneous coding agents through a single versioned knowledge store.
-- **Session-boundary extraction.** Per-agent stop hooks compile raw session transcripts into structured intermediate-representation snapshots — task state, decisions, and failure log — enabling lossless context handoff on an agent switch.
-- **MCP server over stdio.** Five structured read, write, and sync tools exposed to any MCP-capable client, with a zero-database, file-only design. Validated across Claude Code, Cursor, and Copilot CLI.
-- **Automatic configuration patching.** Rewrites each agent's native settings to point at the shared brain, alongside a Next.js Mission Control dashboard for real-time cross-agent activity.
-- **Conflict prevention at the edit, not discovery at the merge.** Shared file locks, live patch sync, and rooms for team-wide collaboration.
+The project I am most proud of. An open-source coordination and context layer for AI coding agents — a shared, versioned memory that follows you across Claude Code, Cursor, Copilot, Codex, and Antigravity, so switching tools no longer means losing the plot.
 
 `Node.js` · `TypeScript` · `Model Context Protocol` · `Next.js` · `Multi-Agent Systems`
 
@@ -94,6 +86,14 @@ Docker · Kubernetes · Caddy · Git and GitHub Actions · Linux · Google Cloud
 
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/prakrititz" alt="Prakrititz Borah's GitHub contribution graph" width="100%"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakrititz/prakrititz/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakrititz/prakrititz/output/snake.svg"/>
+    <img src="https://raw.githubusercontent.com/prakrititz/prakrititz/output/snake.svg" alt="Snake animation consuming the contribution graph" width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
