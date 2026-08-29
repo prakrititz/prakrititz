@@ -1,21 +1,135 @@
-# 👨‍💻 Hi I am
+# Prakrititz Borah
 
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Prakrititz%20Borah&fontSize=90&animation=fadeIn)
+Integrated M.Tech (B.Tech + M.Tech) in Computer Science and Engineering, with a Minor in Artificial Intelligence and Machine Learning, at the International Institute of Information Technology Bangalore.
 
-## 🎓 Computer Science Student | IIIT Bangalore
+I build software across the stack — from Android applications and self-hosted deployment platforms to research-grade machine learning pipelines. My current focus is on deepening my understanding of machine learning: representation learning, multi-objective optimisation, and applied NLP with deep learning. I am actively looking to learn more in this space through research, coursework, and open-source work.
 
-Passionate about technology, exploring the intersections of software development and innovative solutions.
+---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&width=435&lines=Web+Developer;Gen-Ai+Developer;Problem+Solver)
+## Resume and Curriculum Vitae
 
-## 🚀 Technologies
+| Document | Focus | Link |
+| --- | --- | --- |
+| Resume | One-page overview: engineering projects, systems work, and achievements | [resume.pdf](./resume.pdf) |
+| Curriculum Vitae | Extended record: research, publications, teaching, and coursework | [cv.pdf](./cv.pdf) |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,java,flask,unity,gcp,css,git" alt="Technology Stack"/>
+---
+
+## Goal Guard
+
+**Goal Guard** is a productivity and focus application I built for Android and iOS. It blocks distracting applications and websites through Android system APIs with lifecycle-aware services, persists blocking state across OS restarts, and keeps the blocking engine and the user interface in real-time sync. Google Play Billing handles subscription validation and feature gating.
+
+The application has grown to **20,000+ downloads across 25+ countries** with **1,500+ daily active users**.
+
+[**View Goal Guard on Google Play**](https://play.google.com/store/apps/details?id=com.goalguard.app)
+
+---
+
+## RelayBrain
+
+The project I am most proud of. **RelayBrain** is an open-source coordination and context layer for AI coding agents — a shared, versioned memory that follows you across Claude Code, Cursor, Copilot, Codex, and Antigravity, so switching tools no longer means losing the plot.
+
+- **Cross-agent memory architecture.** An npm package with a dedicated CLI that unifies shared context across five heterogeneous coding agents through a single versioned knowledge store.
+- **Session-boundary extraction.** Per-agent stop hooks compile raw session transcripts into structured intermediate-representation snapshots — task state, decisions, and failure log — enabling lossless context handoff on an agent switch.
+- **MCP server over stdio.** Five structured read, write, and sync tools exposed to any MCP-capable client, with a zero-database, file-only design. Validated across Claude Code, Cursor, and Copilot CLI.
+- **Automatic configuration patching.** Rewrites each agent's native settings to point at the shared brain, alongside a Next.js Mission Control dashboard for real-time cross-agent activity.
+- **Conflict prevention at the edit, not discovery at the merge.** Shared file locks, live patch sync, and rooms for team-wide collaboration.
+
+`Node.js` · `TypeScript` · `Model Context Protocol` · `Next.js` · `Multi-Agent Systems`
+
+[**View the repository on GitHub**](https://github.com/prakrititz/relayBrain)
+
+---
+
+## Technical Skills
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,go,java,kotlin,js,ts" alt="Languages"/>
 </p>
 
-## 📫 Connect
+Python · C++ · C · Rust · Go · Java · Kotlin · JavaScript · TypeScript · SQL · CUDA · Verilog
+
+**Deep Learning and Artificial Intelligence**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="Deep Learning"/>
+</p>
+
+PyTorch · TensorFlow · Hugging Face Transformers · Accelerate · PEFT and LoRA · ONNX · OpenCV · YOLO · Optuna
+
+**Generative AI, Agents, and the MCP Ecosystem**
+
+Model Context Protocol (MCP) · MCP servers over stdio and HTTP · Tool-calling and function-calling agents · Multi-agent orchestration · Agent memory and context engineering · Claude Code, Cursor, Copilot, Codex, and Antigravity integrations · LangChain · LangGraph · LlamaIndex · Retrieval-Augmented Generation · Vector search and BM25 hybrid retrieval · Prompt and context compression · Fine-tuning and evaluation harnesses · vLLM and Ollama · OpenAI and Anthropic APIs
+
+**Classical Machine Learning and Data Science**
+
+Scikit-Learn · XGBoost · LightGBM · Pandas · NumPy · SciPy · Matplotlib · Genetic algorithms and multi-objective optimisation
+
+**Backend and Application Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,spring,react,nextjs,tailwind,androidstudio,unity" alt="Backend and Application Development"/>
+</p>
+
+Node.js · FastAPI · Flask · Spring Boot · React · Next.js · Tailwind CSS · Android SDK · Jetpack Compose · Unity
+
+**DevOps and Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,gcp,postgres,sqlite,redis" alt="DevOps"/>
+</p>
+
+Docker · Kubernetes · Caddy · Git and GitHub Actions · Linux · Google Cloud Platform · PostgreSQL · SQLite · Redis
+
+---
+
+## Areas of Interest
+
+- Machine learning and deep learning — I am currently learning and building in this area, with coursework in Machine Learning, Multi-Objective Machine Learning, Natural Language Processing with Deep Learning, Machine Reasoning, and Network-Based Computing for HPC and AI.
+- Applied research in physiological signal processing and model efficiency for edge deployment.
+- Agentic systems, LLM context compression, and developer tooling.
+- Competitive programming and algorithm design.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakrititz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Statistics" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakrititz&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Most Used Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakrititz&hide_border=true" alt="Contribution Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prakrititz&column=7&margin-w=8&no-frame=true" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## Contributing
+
+Contributions to my open-source work are genuinely welcome. [RelayBrain](https://github.com/prakrititz/relayBrain) in particular is built to be extended, and new agent integrations are the highest-value contribution right now.
+
+1. Open an issue describing the bug, integration, or feature before starting substantial work.
+2. Fork the repository and create a branch named for the change, for example `feat/cursor-adapter`.
+3. Keep commits focused and write commit messages that explain the reasoning, not only the diff.
+4. Ensure the existing checks pass, and add tests covering new behaviour.
+5. Open a pull request that describes the problem, the approach, and any trade-offs you accepted.
+
+Bug reports, documentation improvements, and reproducible test cases are as valuable as code.
+
+---
+
+## Collaboration
+
+I am open to research collaborations in machine learning, contributions to open-source developer tooling, and internship opportunities. If you are working on something in these areas, please reach out.
+
+---
+
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakrititz.borah@iiitb.ac.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakrititz-borah-348b04287/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakrititz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prakrititz/)
