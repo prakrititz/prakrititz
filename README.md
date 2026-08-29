@@ -90,19 +90,19 @@ Docker · Kubernetes · Caddy · Git and GitHub Actions · Linux · Google Cloud
 
 ---
 
-## GitHub Activity
+## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakrititz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Statistics" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakrititz&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Most Used Languages" height="165"/>
+  <img src="https://ghchart.rshah.org/409ba5/prakrititz" alt="Prakrititz Borah's GitHub contribution graph" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakrititz&hide_border=true" alt="Contribution Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prakrititz&column=7&margin-w=8&no-frame=true" alt="GitHub Trophies"/>
+  <a href="https://github.com/prakrititz">
+    <img src="https://img.shields.io/github/followers/prakrititz?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/prakrititz/relayBrain">
+    <img src="https://img.shields.io/github/stars/prakrititz/relayBrain?style=for-the-badge&logo=github&logoColor=white&label=RelayBrain%20Stars&color=181717" alt="RelayBrain Stars"/>
+  </a>
 </p>
 
 ---
