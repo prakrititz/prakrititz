@@ -82,30 +82,6 @@ Docker · Kubernetes · Caddy · Git and GitHub Actions · Linux · Google Cloud
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/prakrititz" alt="Prakrititz Borah's GitHub contribution graph" width="100%"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakrititz/prakrititz/output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakrititz/prakrititz/output/snake.svg"/>
-    <img src="https://raw.githubusercontent.com/prakrititz/prakrititz/output/snake.svg" alt="Snake animation consuming the contribution graph" width="100%"/>
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/prakrititz">
-    <img src="https://img.shields.io/github/followers/prakrititz?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/prakrititz/relayBrain">
-    <img src="https://img.shields.io/github/stars/prakrititz/relayBrain?style=for-the-badge&logo=github&logoColor=white&label=RelayBrain%20Stars&color=181717" alt="RelayBrain Stars"/>
-  </a>
-</p>
-
----
 
 ## Contributing
 
